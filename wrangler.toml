@@ -1,2 +1,2 @@
 [build]
-  upload = { format = "service-worker", asset = "./public" }
+  upload = { format = "service-worker", asset = "./public/*" }
