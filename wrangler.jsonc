@@ -1,0 +1,5 @@
+{
+  "name": "image-uploader",
+  "compatibility_date": "2025-04-24",
+  "main": "public/index.html"
+}
