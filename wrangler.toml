@@ -1,8 +1,0 @@
-name = "imageuploder"
-main = "worker.js" # ← ここをあなたのWorkerの実際のファイルに合わせる
-compatibility_date = "2025-04-24"
-
-[[r2_buckets]]
-binding = "MY_BUCKET"
-bucket_name = "user-uploads"
-preview_bucket_name = "user-uploads"
